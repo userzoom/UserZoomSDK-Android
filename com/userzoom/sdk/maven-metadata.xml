@@ -3,11 +3,11 @@
   <groupId>com.userzoom</groupId>
   <artifactId>sdk</artifactId>
   <versioning>
-    <latest>23.4.4.361</latest>
-    <release>23.4.4.361</release>
+    <latest>23.4.5.369</latest>
+    <release>23.4.5.369</release>
     <versions>
-      <version>23.4.4.361</version>
+      <version>23.4.5.369</version>
     </versions>
-    <lastUpdated>20240529114244</lastUpdated>
+    <lastUpdated>20240930122922</lastUpdated>
   </versioning>
 </metadata>
